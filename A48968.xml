@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lombard-Street lecturer's late farewell sermon, answer'd: or, the Welsh Levite toss'd de novo A dialogue between David J-nes and Dr. John Bastwick; and lovewit and fairman, two of his late parishioners. Addressed to the banker of Lombard-Street.</title>
+         </titleStmt>
+         <extent>Approx. 64KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48968</idno><idno type="EEBO-CITATION">99834593</idno>
+  <idno type="VID">39095</idno>
+  <idno type="EEBO-PROQUEST">2240919922</idno>
+  
+            <idno type="STC">Wing L2844A</idno>
+            <idno type="STC">ESTC R224117</idno>
+            <idno type="PROQUEST">99834593</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834593e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48968)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39095)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1814:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lombard-Street lecturer's late farewell sermon, answer'd: or, the Welsh Levite toss'd de novo A dialogue between David J-nes and Dr. John Bastwick; and lovewit and fairman, two of his late parishioners. Addressed to the banker of Lombard-Street.</title>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the assigns of John Bastwick, and sold by T.J. without Temple-Barr,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In answer to Jones, David.  "A farewel-sermon preached to the united parishes of St. Mary Woolnoth, &amp; St. Mary Woolchurch-Haw in Lombard-Street".</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bastwick, John, 1593-1654 --  Early works to 1800.</term>
+               <term type="personal_name">Jones, David, 1663-1724? --  Farewel-sermon preached to the united parishes of St. Mary Woolnoth, &amp; St. Mary Woolchurch-Haw in Lombard-Street --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39095:1"/>
+            <pb facs="tcp:39095:1"/>
+            <p>THE Lombard-Street Lecturer's LATE <hi>Farewell Sermon,</hi> ANSWER'D: OR, THE Welsh Levite Toss'd <hi>De Novo.</hi>
+            </p>
+            <p>A DIALOGUE Between <hi>David J-nes</hi> and Dr. <hi>John Bast<g ref="char:EOLhyphen"/>wick;</hi> and <hi>Lovewit</hi> and <hi>Fairman,</hi> two of his late Parishioners.</p>
+            <p>Addressed to the Bankers of <hi>Lombard-Street.</hi>
+            </p>
+            <q>Tantaene animis Coelestibus irae? <bibl>
+                  <hi>Virg.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Assigns of <hi>John Bastwick,</hi> and Sold by <hi>T. J.</hi> without <hi>Temple-Barr,</hi> 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:39095:2"/>
+            <pb facs="tcp:39095:2"/>
+            <head>TO THE BANKERS OF Lombard-Street.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THe Popular Noise of a certain <hi>Farewell Sermon,</hi> Preach'd amongst you, has Rang so loud in the Town, that all Tongues are full of it; for indeed, there is that extravagant Vengeance in it, denounced against you, (for you are his Mark,) as seems not a little amazing. This <hi>Farewell,</hi> (to give the Author his due,) has dealt <hi>Hell</hi> and <hi>Damnation</hi> as liberally amongst you, as ever the late Famous Impostor <hi>Wickham</hi> (in his last <hi>Will</hi> and <hi>Te<g ref="char:EOLhyphen"/>stament</hi>) did his <hi>Lands</hi> and <hi>Legacies;</hi> and truly, upon due Examination, 'tis to be fear'd, with equal Truth and Veracity, our <hi>Lombard</hi>-Street <hi>Pastor</hi> being much the same <hi>Oracle</hi> with the St. <hi>Clements Testator.</hi>
+            </p>
+            <p>Eternal and irrevocable Damnation, <hi>Gentlemen,</hi> is a very severe Sentence, and the bold Pronouncer, ought to weigh before he Dooms; for 'tis not the pretended Pastoral Commission and Authority, can Warrant such Pulpit Thun<g ref="char:EOLhyphen"/>der-Claps to strike at Random. 'Tis easie to Cry out, An <hi>Usurer!</hi> An <hi>Usurer!</hi> Good Lungs, and Mad Zeal, may go far, but right Reason, and upright Judgment, ought to go farther. He that would shew us the Fiend, would do ho<g ref="char:EOLhyphen"/>nestly
+<pb facs="tcp:39095:3"/> to point us the Cloven-foot: And our Open-Mouth'd <hi>Zealot,</hi> when he resolv'd, in a full Cry, to run down all <hi>Lombard</hi>-Street at a Breath, he would have done well to have Thought a little before he Talkt all, and only paus'd, to make some Distinction betwixt <hi>Commerce</hi> and <hi>Extor<g ref="char:EOLhyphen"/>tion, Honest Traffick,</hi> and <hi>Unjust Usury.</hi> Had he given you that fair play for your <hi>Lives</hi> and <hi>Souls,</hi> (for they were both under his Lash) he had done something. But truly our Head-long <hi>Jehu</hi>-Driver, had no such License to spare, and his <hi>Patrons</hi> must expect no such Favour at his hands.</p>
+            <p>In short, you take Interest for Money, and with the Spirit of <hi>Muggleton,</hi> (the Copy only out-doing the Original) he has over and over told you, you are all Damn'd for it. And as he began with you, to keep up his Character, he resolved to end with you; his Farewell we understand, being only a Sum<g ref="char:EOLhyphen"/>mary of his former continued Fulminations against you. By what Inspiration all this condemn'd Vengeance against you moved, I will not pretend to inquire, it being possibly no where better describ'd then in a Famous <hi>Poet.</hi>
+            </p>
+            <q>
+               <l>Thus Wind i'th' Hypocondriack pent,</l>
+               <l>Proves but a Blast, if downward sent;</l>
+               <l>But if it upward chance to fly,</l>
+               <l>It turns new Light and Prophecy.</l>
+            </q>
+            <p>Now <hi>Gentlemen,</hi> the business of this following Dis<g ref="char:EOLhyphen"/>course being a vindication of Truth, in answer to the In<g ref="char:EOLhyphen"/>dignities and rude Treatments you have received from him, and consequently, to justifie the publick Right you have done your Selves; as such, it begs your favourable Accep<g ref="char:EOLhyphen"/>tance,</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:39095:3"/>
+            <head>The INTRODUCTION.</head>
+            <p>THE Town has been entertain'd with a late Farewel Sermon, Preach'd by <hi>David Jones,</hi> late of St. <hi>Mary Woolnoth;</hi> a piece (you may judge) of no small merit, when the Bookseller could afford so many Guineas for the Copy, a price rarely given for a Sermon. But you are to consider, there's something more than Gospel in it. The Preacher, the Cause, the Occasion, and the matter contained in it, affords some (very out of the way) Rarity, and the general reception it has met, perhaps, is owing to that chief, if not only Curiosity. The parting with a good Benefice, you may imagine, was a little provoking, and not to say, <hi>The</hi> Welch <hi>Blood was up,</hi> let it suffice, The Man of God, like other frailer Mortality, was angry, and has not been sparing of Gall to his Ink.</p>
+            <p>As such then his Farewell appears in Print; and if his Readers are as numerous, as his Auditors were, we are not much to wonder at it. For 'tis the common weakness of Mankind, to be more charm'd with Di<g ref="char:EOLhyphen"/>version than Instruction. And on that score, we find it so popular a piece.</p>
+            <p>To examine this doughty Farewel-stroke throughout, 'twould be a work too tedious, but as his keenest Shafts is shot against Usury, and chiefly levell'd at the great Bankers, his Worshipful Parishioners to ex<g ref="char:EOLhyphen"/>pose that Scurrility and Detraction, and unmask the feeble Rayler, is the Subject of our present Discourse.</p>
+            <p>His great position is, That <hi>He that taketh any Increase, is an Usurer, and such a one as shall surely die for his Usury, and his Blood shall be upon his own Head,</hi> &amp;c. In Answer to which,</p>
+            <p>First, To the Legality of Increase, or Interest of Money. Such In<g ref="char:EOLhyphen"/>terest is establish'd by the strongest Law of the Nation, by Act of Par<g ref="char:EOLhyphen"/>liament. Now if that Law be no Authoritative Warrant for the practice of it; instead of Snarling and Barking at a few of his Banker Parishio<g ref="char:EOLhyphen"/>ners, Why does not our great Champion of truth, strike at the Root of so raigning a Sin (as every Faithful Minister ought) and consequently declare, that the Temporal Law that encourages it, as being expresly against the Law of God, is in it self null and void, and thereupon hum<g ref="char:EOLhyphen"/>bly move our present King, Lords, and Commons, to amend so gross an Oversight and Fault in their Erroneous Predecessors, by Abolishing that Unchristian Statute. For without this, all his Preaching will be in vain; for unless our non interest Predicator can Convince the World, That he is Wiser than the whole Nation besides, whilst the Increase of
+<pb facs="tcp:39095:4"/> Money continues <hi>Cum Privilegio,</hi> under the Sanction of Decrees and Sta<g ref="char:EOLhyphen"/>tutes, 'twill be absolutely impossible for him to perswade the Rich Men of the Nation, to quit so fair a Feather in their Caps, upon one single Doctors Opinion against it.</p>
+            <p>Besides, as I take it, our present Establishment of 6 <hi>per Cent.</hi> was set<g ref="char:EOLhyphen"/>led in a <hi>Protestant</hi> Reign, and 'tis to be thought, that the whole Episco<g ref="char:EOLhyphen"/>pal Body, as Prelates in Parliament, were assenting to such a Law. I am sure we do not read of any Ecclesiastical Votes against Interest Mo<g ref="char:EOLhyphen"/>ney, at the passing of that Act. And were the great Pastors of our Church, our Bishops, and Law-makers, all in the wrong, and only our Diminitive Curate of <hi>Lombard-Street</hi> in the right? If so; I know no reason our over modest Preacher has to spare those offending Church<g ref="char:EOLhyphen"/>men, any more than he has sometimes done the rest of the Clergy, in his famous Invectives against Pluralities.</p>
+            <p>So much for the National Authority for Increase of Money. Now let us examine the thing as purely in it self. Shall a rich Money'd Man lend such a Trader, or Merchant so much Money, by which, through his lawful Industry, shall that Trader or Merchant gain possibly 30 or 40 <hi>per Cent.</hi> and at last, through rolling that first Foundation Stone, arrive to infinite Riches, and after all repay his kind Patron, with no Interest, Advantage, or Consideration whatever. Shall the Borrower grow so f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, and the Lender, the Founder of the Feast, look on and starve. Is this thy Gospel Justice, thou Man of God?</p>
+            <p>Besides, What's the Money more than Moneys worth! Are Silver and Gold more Riches or Wealth, than Sheep and Oxen? The Grasier that drives his Six Oxen to Market, makes <hi>Increase,</hi> for he sells 'em for more than they cost him, and perhaps with their Sale, brings 7 the next Mar<g ref="char:EOLhyphen"/>ket-Day, and so to an Hundred: And shall Money, and only Money, be d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bat'd that Improvement. Shall the Goldsmith make Increase by his Gold Rings, and Silver Tankards with Honesty, but lie under our Boan<g ref="char:EOLhyphen"/>erges Anathema of Damnation, if he does it by his pieces of Eight? Certainsy it looks a little hard, that Land shall have free Liberty to exact 5 <hi>per Cent.</hi> from the hard Labours of the toiling Hind and Peasant, that gets his daily Bread by the Sweat of his Brow; and Money at the same time shall be denied the priviledge of raising a profit from the Luxury of a borrowing Courtier, the Ventures of a prosperous Voya<g ref="char:EOLhyphen"/>ger, or the like; especially when liable to Shipwracking the whole Fund, the very principal-exposed to harm; when on the contrary, the safer <hi>Terra firma</hi> runs no such danger.</p>
+            <p>Besides, if Usury (I mean under a moderate Restriction and Limita<g ref="char:EOLhyphen"/>tion) were unlawful; How comes it, that in the parable of the Ten Talents, [<hi>Matth.</hi> 25th.] our Saviour rebukes the Negligent Servant that hid his Talent under ground, with so severe a Reprimand, as, <hi>Thou wicked and slothful Servant—Thou oughtest to have put thy Money to the Ex<g ref="char:EOLhyphen"/>changers,
+<pb facs="tcp:39095:4"/> that at my return I might have received my own with <hi>Vsury.</hi>
+               </hi> Giving him no less a Condemnation, than <hi>Cast ye the unprofitable Servant into utter Darkness,</hi> &amp;c. Belike in our Saviour's time there were Banks, and Exchangers, as well as in <hi>Lombard-street</hi> Precinct. And though this is only spoken by way of Parable, yet it is very strange, our Saviour should compare the Kingdom of Heaven, and the means himself pre<g ref="char:EOLhyphen"/>scribes to attain it (as such is this Parable) to the vilest, and (if our <hi>Da<g ref="char:EOLhyphen"/>vid</hi> may be believed) to so Diabolical a sin, for his Allusion, as <hi>Usury.</hi> Our Saviour's <hi>Way to Heaven,</hi> and our <hi>Levite</hi>'s <hi>Down-right Road to Hell,</hi> methinks, are something ill matcht together. But our Gospeller reads the Bible, perhaps, with peculiar Spectacles of his own.</p>
+            <p>Well, but for once let us lay aside the Parable of Heaven, and the Authority of Christ himself in this point, and examine Interest of Mo<g ref="char:EOLhyphen"/>ney in its politick Capacity, as consistent with the Publick, in a Natio<g ref="char:EOLhyphen"/>nal Concern.</p>
+            <p>Granting then for once, that our Divine <hi>Enthusiastick</hi> has deliver'd an Oracle, <hi>That Usury, or Increase of Money is that unlawful Gain as to debar the Receiver from the Benefits of Christ; and exclude him from the</hi> Sacra<g ref="char:EOLhyphen"/>ment; <hi>nay,</hi> Salvation <hi>it self without</hi> Restitution <hi>first made, and that the Rules of our Christianity declare so positivtly against it, that it ought to be pro<g ref="char:EOLhyphen"/>hibited and banisht from out of a Christian Government.</hi> Granting all this, I say, let us examine the publick Consequences of such a Prohibition.</p>
+            <p>First, if Money be debar'd improvement, nothing but Land, or Tra<g ref="char:EOLhyphen"/>ding can make any Increase. Hereupon no Wise Man will ever part with his Land; or if now and then an Accidental Purchase should hap<g ref="char:EOLhyphen"/>pen, here are so many money'd Gapers to snatch it, that in one Twelve Months time, all the Lands in <hi>England,</hi> will be in Rich Mens hands, and such a thing as a sale of an Estate, scarce heard of in an Age. After that near three parts of the Money in <hi>England</hi> will be buried under ground. For who will let out his Money for Charity? If all that flowing Cash be call'd in, more than half the Traders, and Dealers in the Kingdom, must lie down and starve. For the Banks (the Exchecquers that fed 'em) will be all shut up. And if it be objected, That then the Usurer must turn Merchant and Trader himself, if he will turn his Money to lawful Use. To that I Answer: What's this but turning the World topsie-turvey, setting the Cripple to Plough; putting Traffick and Trade into the Hands of Ignorance and Incapacity, to manage what they understand not, and setting Experience and Industry, that does understand it, a drift to perish.</p>
+            <p>Nor will the Trafficker and Trader only suffer, all Degrees of Men must groan under this Rigid Doctrine of Non-Usury.</p>
+            <p>For Instance. Suppose a Gentleman of Estate and Quality, besides leaving the gross of a plentiful Estate to his Eldest Son and Heir, (as in all reason he should do so) to support the grandeur of a Noble Family,
+<pb facs="tcp:39095:5"/> through his many Years Industry, and other good Fortune, has made Provision for Younger Sons, and his Daughters. For Example. Sup<g ref="char:EOLhyphen"/>pose a Daughters Portion is a brace of Thousand Pounds. This young <hi>Lady</hi> we will farther suppose ought in all Justice to match in some mea<g ref="char:EOLhyphen"/>sure to her equal Quality, possibly some Country Gentleman of 3 or 400 a Year. Now upon the supposition that Interest of Money be forbid<g ref="char:EOLhyphen"/>den. What signifies her Portion to such a Husband, not 3 pence. For first, as has been said before, here's no purchase of <hi>Land</hi> to be found for it: To Merchandize with it, he understands not, besides 'tis break<g ref="char:EOLhyphen"/>ing his whole Measures of <hi>Life</hi> to manage, or indeed to attempt any such unintelligible Trade, or Mystery. The business of living amongst his Tenants, and bearing a figure in his Native Country; upon his own Seat, and the like, is all he knows, or indeed all that ought to be ex<g ref="char:EOLhyphen"/>pected from him. What must he do with this dead load of Money? to spend it that's <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Husbandry; and ends in Ruine: 'Tis enough for eve<g ref="char:EOLhyphen"/>ry Prudent Man to live up to the height of his Annual Income; all that he draws from the main stock is perfect prodigality. Well then, he must keep all this Money buried by him, or lend it out for nothing (which comes much to the same end) and possibly 22 or 23 years hence, when he has Sons and Daughters grown up to Men and Women, he has this unimproved 2000 <hi>l.</hi> by him to bestow between 5 or 6 young Children, (the Wife and whole Family eating out the Annual profits of this <hi>Land) viz.</hi> 2 or 300 <hi>l.</hi> a piece, just enough to set up his Sons for Country Shop<g ref="char:EOLhyphen"/>keepers, and to Match his Gentlewoman Daughters to some Inferior Mechanicks; and so both the Father and Mother of Quality, have the pleasure to see in one Generation, their Family dwindle to nothing; whereas, if this Two Thousand pound might have been improved for those three or four and twenty years together, here might have been suffi<g ref="char:EOLhyphen"/>cient to breed the younger Sons at least to the genteelest of Merchants or Traders, and to Match the Daughters to equal Blood, Fortunes, and Quality with themselves. But by our famous <hi>Leveller</hi>'s Tenent, by the same parity of Reason, the highest Nobility must either turn Trader to support the under Branches of Great Family; that is, if Moneys and Treasures are such useless Commodities; or else the Estate, that should go with the Honour, must be torn to pieces, and consequently by the Divisions, and Subdivisions in 3 or 4 Generations, (provided they obey God's first Commandment, <hi>viz.</hi> Increase and Multiply) the Richest and Noblest Family in <hi>England</hi> must shrink to a Skeleton.</p>
+            <p>Our Divine Author when he condemn'd Interest of Money, he did well to enjoyn the Cessation of <hi>Conjugal Delight,</hi> the addition of Fasting Rights, to Penitential Days. For if a poor Heiress to 20000 <hi>l.</hi> brings her Right Honourable Spouse so worthless, and so useless a Downe, with the Shackle of Non-Interest at the heels of it, instead of fasting Nights (especially if she be a Teemer) it will be necessary to enjoyn her fa<g ref="char:EOLhyphen"/>sting Years too, for fear of raising too numerous a Progeny for her <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord to be able to provide for.</p>
+            <pb n="9" facs="tcp:39095:5"/>
+            <p>For another Instance; Suppose an Heir or Executor to some Rich-Mer<g ref="char:EOLhyphen"/>chant, has his whole Patrimony left in Money; and what (as very often) through the Gentleman-Education his Trading Father has given him, he is utterly uncapable of managing his Money in Merchandize (as his Fa<g ref="char:EOLhyphen"/>ther before him) This Rich Heir, without either Land to purchase, or Trade to drive, be his Inheritance never so large; yet if he lives but up to the rate of five <hi>per Cent</hi> of his Money, without the liberty of In<g ref="char:EOLhyphen"/>terest, to make up the daily Fraction, and happens to out-live 20 years, he must come to the Parish to be maintain'd, and dye a Beggar.</p>
+            <p>Nay, if so many thousands of Rich Men perish, what must the Poor suffer? How many poor Families are there in <hi>England,</hi> that drive their whole Weeks Trade upon the borrowed Money they pay every <hi>Saturday</hi>-Night, and maintain their Wives and Children out of Pludges and Loans; whereas, if Money were not to be borrowed upon Interest, where should they find a supply to get in Bread?</p>
+            <p>But, to look yet a little higher into the inseparable Fatalities that at<g ref="char:EOLhyphen"/>tend upon now Interest of Money; here is not only Rich and Poor, Trader or no Trader, nay, Honour and Nobility, all suffering; but even Kingdoms, and Crown'd Heads, under an absolute necessity of shaking by it.</p>
+            <p>For Example: If money be only Loanable <hi>gratis,</hi> suppose the greatest Distress and Exigence of State, the King cannot borrow upon the great<g ref="char:EOLhyphen"/>est Tax, or National Security whatever, unless good Natur'd Loyalty will give him that Credit (a Virtue not always, or at least, not every where in fashion) as to lend him, and especially such lumping Sums, upon no other Return or Requital, but a Compliment.</p>
+            <p>Besides, where will he find Money to borrow, or indeed Taxes to be raised, for when Money is of no other use than to go to the Butcher, or Baker? Traffick will soon be lost, and the Nation over-run with the Wild <hi>Irish</hi> Laziness and Industry will be kickt out of Doors; and when Money (the Vitals and Life of a Nation) once Stagnates, the whole Circulation of Trade we must expect will quickly cease; and if that fails, farewell our wooden Walls, and indeed the whole strength of the Kingdom. The Parliament, notwithstanding the present <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill before 'em, will be able to make but small Incouragement for the Im<g ref="char:EOLhyphen"/>portation of <hi>Bulloin</hi> to convert into Money, to supply the present Na<g ref="char:EOLhyphen"/>tional wants. Thus, instead of new Money coming in, they must have a care that the old do not all run out, to seek a more thriving Soyl, than the barren and unprofitable <hi>English</hi> Product can afford it. In short, our
+<pb n="10" facs="tcp:39095:6"/> Zealous Book-worm, without any farther prospect, without considering Common-wealth or People, Government or Constitution, or indeed a<g ref="char:EOLhyphen"/>ny thing else, sets up his Throat to unloose all the Nerves of Com<g ref="char:EOLhyphen"/>merce and Society, and consequently to unhinge whole Estates, and all by the stretch of a Text in <hi>Ezekiel,</hi> that forbids the taking of any Increase; Never weighing in what Circumstances that Text was deliver<g ref="char:EOLhyphen"/>ed, or whither it pointed, or how far it reaches the Case before him; nay, his Passion makes him so t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t random, that he declares, That <hi>taking use for money is every way hurtful and incommodious, both to private Men, and Publick Society.</hi> But how 'tis so, there he's pleased to be si<g ref="char:EOLhyphen"/>lent, talking without proving being indeed his greatest Talent.</p>
+            <p>But that our high-flown Pulpiteer (<hi>Preacher</hi> we dare not call him, Modesty, Reason, and Truth, being t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> necessary Qualifications for that Character) may not run away with the Cause, and make Interest of Money so strangely destructive to Publick Society, we shall desire him but for once to consider (that is, if he has not abs<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lutely forsworn all Consideration) in what Estate God left Mankind, after the fall of our Great Fore-father <hi>Adam,</hi> and some very necessary Consequences atten<g ref="char:EOLhyphen"/>ding that Fall, that will give some farther light into the Question in hand, and discuss the Point before us.</p>
+            <p>When our banish'd first Parents were by the flaming Sword expelled from Paradice, <hi>The ground</hi> (we read) <hi>was cursed for Mans sake, Thorns and Thistles it should bring forth, and in the sweat of his Face he should eat his Bread, till his return to the ground.</hi> From that dooming-day, the Plough and the Spade, the Wheel and the Spindle, and in fine, Care and Labour, and Pain and Toyl, were the Product and Issue of Mans Original Curse. With this hard Portion, were the succeeding Race of Mankind to Plant the World, and be the Inhabitants and <gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>urners of the Earth. From that day, according to the Industry o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Men (the Sun-shining equally on the Just and Unjust) together with the secret and accountable Plea<g ref="char:EOLhyphen"/>sure of Providence in its various Distributions of Mans outward Felici<g ref="char:EOLhyphen"/>ty, have our humane Blessings been so unequ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly divided.</p>
+            <p>From this unequal Division of Temporary Blessings, the succeeding Industry of the World has been necessitated to depend upon mutual Assi<g ref="char:EOLhyphen"/>stance, and Brotherly-help, from generation to generation. He that would labour must borrow the Plough, if he has not of his own. And as Money has all along, and ever will be (neither the threshing floor, or Potters Field to be had without it) both the Plough, and the Plough-dri<g ref="char:EOLhyphen"/>ver, both the Seed, and the Crop of the Harvest, and indeed the Siniew
+<pb n="11" facs="tcp:39095:6"/> and Nerve of every moving Hand; under the fore-mentioned unequal Distribution of that necessary shining Dirt, what an incumbent necessi<g ref="char:EOLhyphen"/>ty does there lye in all Degrees and Vocations of Mankind, to an U<g ref="char:EOLhyphen"/>niversal mutual Accommodation in that most important Working Tool.</p>
+            <p>Now in this plain case, if this grand Accommodation must be made from the abler to the unabler Brother, to support the whole Being of Mankind, and that too under all the Advantages and Succour to the assisted, and neither Advantage nor Help, but inevitable Ruin and De<g ref="char:EOLhyphen"/>struction (as has been before proved) to the Assisting, from the Non-In<g ref="char:EOLhyphen"/>terest above-mentioned; What Injustice must govern the World, if so kind a Helping hand must be so ill rewarded? or on the other side, What Destruction must attend upon Publick Societies, if every able hand (as with good Reason in such a case) should be closed and shut up, and deny that Help to his wanting Brother.</p>
+            <p>Upon summing up the whole; When our Denouncing <hi>Levite</hi> breathed such hideous Fulminations against Use of Money, more or less, in all Cases whatever, as Eternal Damnation, <hi>&amp;c.</hi> to have strengthened that Position with unanswerable Authority, he ought to have searched the Scripture for some Affirmative, as well as Negative Text, <hi>viz.</hi> Lend out thy Money to thy necessitous Brother without Interest, to feed him, and starve thy self, upon pain of Damnation; or the like, <hi>&amp;c.</hi> and so have press'd the Duty of Lending <hi>gratis,</hi> under the same Penalty, as doing it otherwise: For without some such Scriptural-Command, such Prodigal Works of Charity, so kind abroad, and so ruinous at home, will very difficully be imposed upon Mankind; and without that Charity, the Calamities that follow are but too evident. If such a Text could have been found, our <hi>Fare-well-Maker,</hi> and <hi>Ʋsury-Scourger,</hi> had done his Work. But (alas) these Calamitous Consequences never enter'd his Head; his <hi>Enthusiasms</hi> were soaring so high, and carried his Raptures so all Heaven-wards, that he had not leisure to look down upon this Dimi<g ref="char:EOLhyphen"/>nutive spot of Earth; Communities and Constitutions, and the whole Benefits of Mankind, being no part of his Consideration.</p>
+         </div>
+         <div type="dialogue">
+            <pb n="12" facs="tcp:39095:7"/>
+            <head>THE SERMON <hi>Dissected,</hi> IN A Dialogue betwixt <hi>David J—nes,</hi> the Ghost of <hi>John Bastwick;</hi> And <hi>Lovewitt,</hi> and <hi>Fairman,</hi> two of his late Parishoners.</head>
+            <epigraph>
+               <q>
+                  <hi>Inopem me Copia fecit.</hi>
+               </q>
+            </epigraph>
+            <stage>
+               <hi>Enter</hi> BASTWICK.</stage>
+            <sp>
+               <speaker>Bastwick.</speaker>
+               <p>WELL, the Extraordinary account my fellow suf<g ref="char:EOLhyphen"/>fer, and Brother Saint, <hi>W<gap reason="illegible" resp="#murp" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>am Pryn,</hi> gave me lately of a young <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ccessor to <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ble Spirit, has made me have the Curiosity of reviising this City to have a little happy Converse with him, both for my Satisfaction, and his Edification; if I can but f<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e way to <hi>L<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mbard-street,</hi> I may chance to meet with him in some of the Houses of the Saints. But hold, here comes a Man in Black, his moody looks, and haughty Port,
+<stage>
+                     <hi>Enter</hi> David.</stage> as well as Stature, make me hope that I may save my self any father labour.</p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>
+                  <note n="*" place="margin">Vide <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e 6.</note>
+                  <hi>I am a Derision dayly, e'ry one mocketh me; for since I spake, I cryed out Violence and Spoil, because the word of the Lord was made a reproach unto me, and a derision dayly; then I said, I will not make mention of him,
+<pb n="13" facs="tcp:39095:7"/> nor speak any more in his Name.</hi> These Men are like the Adders, that stop their Ears to the voice of the Charmer:<note n="*" place="margin">Pa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> But let them not ima<g ref="char:EOLhyphen"/>gine that I will crack my Lungs, like a Water-man that crys stinking Fish, which no body will buy;<note n="*" place="margin">Pa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> No, no, <hi>I take no delight to rake up the Filth of their deceitful hearts, and to speak such uncomely things that NATƲRE Blushes but to Name.</hi> Nor is it any tollerable Diversion to me to set my <hi>Inclinations a Tiptoe,</hi> with the <hi>plain</hi> and <hi>Scripture-like</hi> representation of the enticing <hi>bewitcheries</hi> of a Balmy City Wife, when she designs to Arm her Husband in the wrong place, prostituting her self (yea verily) in a very unseemly manner; or to lay open in Mo<g ref="char:EOLhyphen"/>ving terms (<hi>for</hi>
+                  <note n="*" place="margin">
+                     <gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> pag. 2<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note>
+                  <hi>my Sermons are not dead Letters,</hi> but very active <hi>Animals</hi>) to touch, and pierce you to the quick, the Guilt of the Hus<g ref="char:EOLhyphen"/>band, when he trespasses on the benevolence of his Pious Consort with a buxome young Harlot over a pint of White Port in a Hedge Ta<g ref="char:EOLhyphen"/>vern; or the beastly Copulations of the Callow young Apprentice, and the Demure Chamber-Maid.</p>
+            </sp>
+            <sp>
+               <speaker>Bastw.</speaker>
+               <p>This must needs be the very Man I seek, he breaths Fire and Brimstone, and is more like me than if I had begot him; <hi>But I'll hear a little more before I Embrace him.</hi>
+                  <stage>[aside]</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>No, no; this is a Generation of Vipers, that regards not the Admonitions of the <hi>Zeal,</hi> and Soul-saving<note n="*" place="margin">V<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> pag. 13<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note>
+                  <hi>Foolishness</hi> of <hi>Thunder-like Denunciations;</hi> for 'tis but washing an <hi>Aethiope</hi> white, to be so concern'd for them, since they sit as uncerned as a hardned Debtor in <hi>Alsatia,</hi> to a modest Dun, when they<note n="*" place="margin">Vi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> pag. 1<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note>
+                  <hi>hear</hi> us speak; tho', to say the truth <hi>(as in<g ref="char:EOLhyphen"/>deed I can do no otherways)</hi>
+                  <note n="*" place="margin">Vi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> pag. 1<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> they do not <hi>hear us neither; for they hear us, and hear us not, at the very same individual time,</hi> tho' they be present at the overflowing Torrent of the Spirit, and Truth, and Holiness.</p>
+            </sp>
+            <sp>
+               <speaker>Bast.</speaker>
+               <p>
+                  <hi>Ipsissimus Homo,</hi> I profess the numerical <hi>David,</hi> if I have any skill in Physiognomy; but he's going on, and I'll not stop him in the carrier of the Spirit.</p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>What has all my Travel and pain avail'd me? what advan<g ref="char:EOLhyphen"/>tage in my Harvest have I reap'd, by putting on the Armour of a Face of Brass, as strong as the Rock on which the Church was built in the Gospel? Has any of the Cook-maids of my Parish left off purloining her Mistresses Butter, to encrease her Vails of Kitchin stuff? or any Pro<g ref="char:EOLhyphen"/>phane <hi>Ale-draper</hi> forsaken his abominable Jugg, for a consciencious Quart-Pot, that an honest Porter may be Drunk at a cheaper rate<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or any Corpulent Matron of the Brandy-Shop, given over selling <hi>Babilo<g ref="char:EOLhyphen"/>vish</hi> Spirits for good Protestant <hi>Rochel,</hi> or <hi>Nants?</hi> or, has any ungodly
+<pb n="14" facs="tcp:39095:8"/> dealer in <hi>Fornication,</hi> reform'd her unchristian Negligence, in procuring <hi>Hea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rs</hi> instead of <hi>Coolers: N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, no, yea verily, no;</hi> therefore I will tell them aloud, I will forsake their Company, for I am not willing to go to the Devil in their way; there are more ways to the Wood than one, and if I must go, I'll Lead, and not Follow: No, no, let these Scoun<g ref="char:EOLhyphen"/>drels go and be Damn'd by themselves if they will, for I love not their Company;<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 39.</note> as I told them; since they will not hear me, but thrust me out of the Pulpit, to send me, like <hi>Nebuchadonosor,</hi> a Grazing on the Gras<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Fields, to Converse with the Beasts of the Wilderness.</p>
+            </sp>
+            <sp>
+               <speaker>Bast.</speaker>
+               <p>Now do my Bowels of Compassion yern for him, since I find he is in Tribulation for Conscience sake,—It must be he, Persecution has laid its Papistical Claws upon him; I can scarce contain, but that I <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nd he has not done yet.</p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>But I will de<gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>e the Truth to them, and the errours of their Footsteps, they will hear, and sleep not, tho' the Fields afford as easy of <hi>Dormitory,</hi> as a Pew lin'd with green Bays in a Parish-Church. I will Preach to the Birds of the Air, or to the Fishes of the Waters; they will observe my Words, and lay up all my Sayings, in the repo<g ref="char:EOLhyphen"/>sitories of their Bosoms; they will ne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d no Church-warden to put them in mind of making restitution to their ill got Estates; or of their ratling and laughing, to the disturbance of the execution of my Mini<g ref="char:EOLhyphen"/>stry. I will Preach Repentance to the dark Inhabitants of the Earth, and joyn my self in the Apostleship with the Zealous <hi>Count de Gabulis,</hi> in Converting the more Tractable diminitive Pigmy hearts of the poor <hi>F<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ries.</hi> N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, I will <hi>Ascend</hi> deeper, yea, even to the Bowels of Dark<g ref="char:EOLhyphen"/>ness,<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>g. 23.</note> and proclaim, not with a <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Voice, or <hi>speaking silence,</hi> but like a true Son of Thunder, I will Bestow louder than a <hi>Turk</hi> from the top of a Mosque, or a Bull, de<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e to <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iva<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and bu<gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> open like a Cloud in * <hi>Th<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>der,</hi> and Lightning, to <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Truth to the <hi>Souls in Pri<g ref="char:EOLhyphen"/>son;</hi> where it being something Dark, * <hi>Lightning is necessary to discover their Sins, and T<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>der to stri<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> them w<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h t<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rror <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d noise of the Lord.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Bast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </speaker>
+               <p>
+                  <hi>By the Monstrosays of the Magna Nates Ecclesiae,</hi> I can <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o longer, sure some blustering She-Daemon of the me brought him forth, and no less than all the fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Winds begot him, methinks I hear the Storm begin to R<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le already, I must to him.—Save thee, my Strentous
+<stage>
+                     <hi>Gives</hi> David <hi>a Friendly Sa<g ref="char:EOLhyphen"/>lute on the Shoulder.</hi>
+                  </stage> Holder forth, what is the cause of all these thy Complaints? Has this City forgot her Old Principle so much, as slight so Worthy a Person?</p>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:39095:8"/>
+               <speaker>David.</speaker>
+               <p>
+                  <note n="*" place="margin">Vi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> pag. 27<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note>
+                  <hi>'Tis always so, common Blessings are never esteemed, as they ought to be. Who scarce ever gives thanks for the Light of the Sun, which is the greatest Blessing upon the Earth,</hi> except the Heavenly Blessing of my Preaching? But who are you, that thus familiarly Salute me with such Sensible Words of Compassion? I remember not your Face among those that have not yet Deserted me in my Persecution?</p>
+            </sp>
+            <sp>
+               <speaker>Bastw.</speaker>
+               <p>I am the Ghost of <hi>John Bastwick,</hi> once Doctor of Physic, who afterwards gave Purgatives to the <hi>State</hi> and <hi>Church;</hi> the Fame of thy Emulating my Virtues, has brought me from below, to em<g ref="char:EOLhyphen"/>brace thee, and give thee some Instructions how to arrive to that Perfection I thy Precursor obtain'd in this Life.</p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>I have heard of your Fame and Reputation, and am glad I am so much the care of the Saints departed, as to make them un<g ref="char:EOLhyphen"/>dertake such a Voyage for my sake. If I have not arriv'd to the Zenith of Perfection already, I am sensible you can instruct me.</p>
+            </sp>
+            <sp>
+               <speaker>Bastw.</speaker>
+               <p>First, my Noble <hi>Festus,</hi>
+                  <note place="margin">See <hi>Nal<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi> Collect. Vol. 1. page 4 &amp; p. 5</note> you must <hi>be as hardened in Good<g ref="char:EOLhyphen"/>ness, as I was when I said of</hi> William <hi>the Dragon, that I fear'd neither Post nor Pillory; conceiving always (said I) that I hold my Ears by a better Tenure than he holds his Nose, being a Loyaler Subject than he has Grace to be, and better able to do him Service, than he has ability to judge of; but that, if he should by his Might, and Power, and the iniquity of the Times, advance me to that Desk (meaning the Pillory) I doubt not, but by the Grace of God, I shall make there the Funeral Sermon of all the Prelates of</hi> England.</p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>Ah! sweet Sir, I have not been far behind-hand with you in declaring my Resolution and Fortitude; <hi>What shall hinder me</hi>
+                  <note n="*" place="margin">V<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> pag. 2<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> (say I) <hi>from telling the Truth? shall Tribulation, or Distress, or Per<g ref="char:EOLhyphen"/>secution, shall Famine, or Nakedness, or Peril or Sword? (as it is writ<g ref="char:EOLhyphen"/>ten, For thy sake we are kill'd all the day long, we are accounted as Sheep to the slaughter) for I am perswaded, that neither Death, nor Life, nor Angels, nor Principallities, nor Powers, things present, nor things to come, nor height, nor depth, nor any other Creature, shall never hinder us from telling the Truth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bastw.</speaker>
+               <p>Very well begun; next you must be positive in your own Justification, absolutely confident in your own Innocence and Virtue; as I will give you an Example in my Letter to Mr. <hi>Aqu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a Wykes,</hi> Keeper of the <hi>Gatehouse: And for the Prior of</hi> Canterbury, <hi>there</hi> William <hi>the Dragon, and your Abby-Lubber of</hi> York, <hi>that Oracle of the</hi> North, <hi>who you Stile with the Title of Graces, I will so slang them,
+<pb n="16" facs="tcp:39095:9"/> as I shall make it evident they never knew what it was; for if they had had any grace, they would never have been Persecutors of them that were most realy and truly gratious.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>Ah, Sir, I am before hand with you there too; I defy the World to find any Saint, either Militant, or Triumphant, that excells me.<note n="*" place="margin">Vid. <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>g. 21.</note>
+                  <hi>Here am I, witness</hi> (said I) <hi>against me be<g ref="char:EOLhyphen"/>fore this Congregation, what is my Fault? Have I been guilty of any thing, besides telling you your sins, and of loving your Souls more than any own Interest?</hi>
+                  <note place="margin">Pag. 22.</note>
+                  <hi>Give me the Man, throughout the world, that shall convince me of any publick immoral actions, that ever I have been guilty of, from my Child hood to this day, and I will freely undergo the punishment that is due to all those scanda<g ref="char:EOLhyphen"/>lous Reports, that my Enemies have maliciously invented, and indu<g ref="char:EOLhyphen"/>striously spread abroad concerning me. Give me the Man that can alledge any other reason, why he is my Enemy, save only, because I have told him the Truth, and Christ has lived a Life in me, that is a reproach unto his.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Bastw.</speaker>
+               <p>That was a noble stroak indeed, and pass'd all but the Immaculate Conception; if you could have put in for that too, you had out done all the Arguments of <hi>Scotus,</hi> for that of <hi>Mary.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>That was a superfluous nicety, when I had brought my self all along to an equality to Jesus Christ, and a tran<g ref="char:EOLhyphen"/>scendence above all the Apostles; for who of them had not been guilty of some sin in their lives; <hi>Paul</hi> and <hi>Barnabas</hi> were guilty of so much Immorality (as I declar'd in the be<g ref="char:EOLhyphen"/>ginning of one my Sermons) as to fall out upon a trivial account,<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>. 3d.</note> so far as to separate Companies, as if they hated one another: <hi>Paul</hi> also had Persecuted the Faithful before his Conversion, and <hi>Peter</hi> deny'd his Master after his; and so you may run through the whole Twelve, nay, all the Twelve thousands, that were sealed in the <hi>Apocalyps.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:39095:9"/>
+               <speaker>Bastw.</speaker>
+               <p>I am satisfi'd with what you have done, and find you are arriv'd very near Perfection: Next, you must be sure to find Faults, and great Crimes in every one else, discover their Backslidings in the Face of the Congregation, to the Eye of the World; and if you let any one be Innocent, but your self, you gain but half your Point. As for example: <hi>I will Anatomize the Prelacy, and make it appear, that there is as little need of their Government in these Dominions, as was of</hi> Sampson<hi>'s Foxes with their Fire-brands at their Tails in the</hi> Philistines <hi>Corn— If we look upon the Lives, Actions, and Manners of the Priests and Prelates of this Age, and see their Pride-fast Impudency, Prophaneness, Unmercifulness, Ungodliness,</hi> &amp;c. <hi>we should think that Hell were broke loose, and that the De<g ref="char:EOLhyphen"/>vils in Su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>plices, in Hoods, in Copes, in Rockets, and in four-square Cow<g ref="char:EOLhyphen"/>turds upon their Heads, were come among us, and had beshit us. Fough! how they stink! The Priests are a generation of Vipers, proud, ingrateful, illiterate, Asses,</hi> Secundum ordinem Diaboli. <hi>The Church is as full of Ceremonies, as a Dog is full of Flea's.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>Hold, Sir, you mistake your Man; I am not he I once was; 'tis true, I have mauld the Clergy, Tooth and Nail, and given 'em as desperate thrusts as ever you did; but I am alter'd, I have lately told my Congregation, that I made 'em not a pack of lazy, senseless, sinful Rascals, to bring them into Contempt, but only,—only,—but only— for— for— for exercise of my natural Talent; and, to say truth, I have made 'em some amends, for I have establish'd it as an indubi<g ref="char:EOLhyphen"/>table Truth, That no Minister can tell a Lye, or preach false Do<g ref="char:EOLhyphen"/>ctrine if he would.</p>
+            </sp>
+            <sp>
+               <speaker>Bastw.</speaker>
+               <p>How, my young <hi>Demogorgon,</hi> so fierce! but lately no Racks nor Tortures could alter you, and now for Colloguing with the Gentlemen in black, because you see it takes not with your Parishi<g ref="char:EOLhyphen"/>oners: You ought to love it, because it once befriended you.</p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>Not so fast, my good Friend, I am not gone so far neither; as to be guilty of Recanting; for by this new Truth I have set up, I give a plaguy <hi>Innuendo,</hi> that what I said before was Truth too.</p>
+            </sp>
+            <sp>
+               <speaker>Bastw.</speaker>
+               <p>But, methinks, little <hi>Roger,</hi> you have advanc'd a piece of Babylonish Dialect, and out-shot the Whore of <hi>Rome</hi>'s Infallibility, when you make it impossible for any private Minister to preach up any false Doctrine. Pray what do you think of the <hi>Gnosticks?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>O, certainly, my Friend of Friends, they are damnable He<g ref="char:EOLhyphen"/>reticks,<note n="*" place="margin">Pa<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note>
+                  <hi>they were Notorious for all manner of Lewdness and Debauchery; did yet pretend to a greater measure of Knowledge than other Men: These</hi> Gnosticks <hi>handled the Word of God deceitfully, and made a Merchandize of the Souls of Men, and thought Gain to be Godliness.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:39095:10"/>
+               <speaker>Bastw.</speaker>
+               <p>Then it seems the Ministers come by this Infallibily by a later Title than the <hi>Gnosticks;</hi> but; methinks, you describe the Pre<g ref="char:EOLhyphen"/>lates of my time under the Name of <hi>Gnosticks.</hi> Come, you had bet<g ref="char:EOLhyphen"/>ter stick to your first Principle, and pursue those Foot-steps I left you, of pulling down all the Relicks of the Scarlet Whore. Let me fur<g ref="char:EOLhyphen"/>nish you with a president, from a Bond of my inditing to that pur<g ref="char:EOLhyphen"/>pose, lest the World should scruple to take my word for it. 'Tis thus:
+<q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="bond">
+                              <head>
+                                 <hi>The Obligation of</hi> John Bastwick, <hi>Doctor of Physick, to Mr.</hi> A<g ref="char:EOLhyphen"/>quila Wycks, <hi>Keeper of the</hi> Gate-House, <hi>his good Angel,</hi>
+                              </head>
+                              <opener>
+                                 <dateline>
+                                    <hi>made</hi>
+                                    <date> September 28. 1636.</date>
+                                 </dateline>
+                              </opener>
+                              <epigraph>
+                                 <q>In nomini Domini incipit omne malum Episcopale.</q>
+                              </epigraph>
+                              <p>BE it known therefore to all Men by these presents, That I <hi>John Bast<g ref="char:EOLhyphen"/>wick,</hi> Doctor of Physick, in <hi>Limbo Patrum,</hi> do bind my self in this Obligation to Mr. <hi>Aquila Wycks,</hi> That if he neither deliver me out of this <hi>Aegypt,</hi> and House of Bondage, where now I am, by the Tenth Day of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> next, nor will not let me go to sacrifice unto my beloved <hi>Io,</hi> that for that time forth, I will, with a Pen of Iron, correspondent to the Iron-Age of Prelates, so plague the <hi>Metropoliticality</hi> of <hi>York</hi> and <hi>Canterbury,</hi> and the Hyperocality of all the other Prelates, that I will never leave them till I have sent them to the place where the true <hi>Fullnina b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>lli, Alexander</hi> the Great crys Mustard and Green-Sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ce; and where <hi>Julius Caesar</hi> plays <hi>Plato's</hi> Rat-catcher. And if I be found at any time failing of this Endea<g ref="char:EOLhyphen"/>vour, to pay unto the said Mr. <hi>Aquila Wicks,</hi> as much Money as the Tail of the Beast is worth.</p>
+                              <closer>
+                                 <dateline>In witness hereof I have set my Hand, <date>the Day and Year above-written,</date> being now resident in my Diocess in <hi>Limbo Pa<g ref="char:EOLhyphen"/>trum.</hi>
+                                 </dateline>
+                                 <signed>JOHN BASTWICK.</signed>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+               </p>
+               <p>Thus with the Corallary I have added to my Litany, as additio<g ref="char:EOLhyphen"/>nal Articles; the one to shew the summ of what I undertook to do; the other to demonstrate the reason of the Calling I have to flang the Grols, which many doubt of: And this I have done to take away all Hesitation hereafter from all Men, when they shall see I am bound to it by a special Obligation under my own Hand.</p>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:39095:10"/>
+               <speaker>David.</speaker>
+               <p>Oh, pray good Mr. <hi>Bastwick,</hi> don't go about to per<g ref="char:EOLhyphen"/>swade me to renounce Prelacy, now I am out of Place. Now I am a poor <hi>sine cure,</hi> Who will look upon me? 'twou'd make me in some measure <hi>Felo de se,</hi> by starving my self for want of Prefer<g ref="char:EOLhyphen"/>ment, their Hearts may molifie, and forget I was their Scourge.</p>
+            </sp>
+            <sp>
+               <speaker>Bastw.</speaker>
+               <p>Never think that, my dear True Penny, for thou art Metropolitically mistaken, if thou thinkst to find any more Bow<g ref="char:EOLhyphen"/>els of Compassion now, than I did when I was in <hi>Limbo Pa<g ref="char:EOLhyphen"/>trum;</hi> you'll get nothing but the flap of a Fox Tail, take my word for't; for I try'd 'em long since in these Emphatical Words, <hi>Now the Prelate has an Ample House fit for Entertainment, and a great Revenue to support its Grandure; if he please, I and my Family will go and dwell with him; and by this means he shall exer<g ref="char:EOLhyphen"/>cise his Hospitality; by this means the Prophesie of</hi> Isaiah <hi>will be fulfi'd, the Wolf and the Lamb shall lye together. Pray you, next time you see his Highness of</hi> Croyden, <hi>ask him if he will do any good in his old days, for I never heard he did in his young. Ask him, I pray, if his Holyness will accomplish any Prophesies, or obey Apostolical Canons? The Prelates are the Tail of the Beast.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>But this was abusing them, and not asking a Favour; had you been a little more submissive, perhaps you might have far'd better.</p>
+            </sp>
+            <sp>
+               <speaker>Bastw.</speaker>
+               <p>Hug not thy self with such a vain Opinion, for a poor Curacy of scarce 30 <hi>l. per Annum,</hi> will be thy Lot, if thou perse<g ref="char:EOLhyphen"/>vere in thy silly Humour. Whereas <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f thou tack entirely about to the Saints, thou wilt have at least One hundred Pound <hi>per Annum</hi> in pure sincere Ready, paid duly every Quarter, beside Superega<g ref="char:EOLhyphen"/>tory Offerings, from the Devouter Sisterhood Nor shall you pay no First Fruits, and Tenths; nothing to the King, nothting to the Poor; and thou shalt rail at the wickedness of Bishops, Priests, and Nonresidents, Pluralities, and any thing, but thy own Con<g ref="char:EOLhyphen"/>gregation.</p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>Why truly, Worthy Sir, you have urg'd a great deal of Reason, in that you say, and I'll take it into my serious Considera<g ref="char:EOLhyphen"/>tion. The Advantages are many; better Pay, and more Liberty to rail at all Degrees of Dignities, and all this without the expence of Thought, or the trouble of first Studying and Composing; and then learning my Sermons by heart, since <hi>quicquid in buccam venerit</hi> will best <hi>mimio inspiration</hi> these Advantages, I say, may prevail; but I will consider on't.</p>
+            </sp>
+            <sp>
+               <pb n="20" facs="tcp:39095:11"/>
+               <speaker>Bastw.</speaker>
+               <p>But oh, my Sanctifi'd Reformer, you must debar none from the Sacrament on any Account, if the Cause require; for that is a Fundamental Institution of our Church, brought to Practice by the Reverend Mr. <hi>Case</hi> in my time; who, to encourage his Audi<g ref="char:EOLhyphen"/>tors to bring in liberally on the Propositions for Money, Plate, Horses, upon his Administring the Sacrament, began thus, <hi>All you that have contributed to the Parliament, come and take this Sacrament to your Comfort.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>Well, I say again, I will consider on't, and weigh the Proposition for the good of my Conscience.</p>
+            </sp>
+            <sp>
+               <speaker>Bastw.</speaker>
+               <p>Then, my Noble <hi>Festus,</hi> I'll e'en leave thee to this worthy Consideration, for I have out staid my time, and shall scarce be trusted out of <hi>Limbo</hi> again on my Parole, but I must have some Devil of a Waiter or other at my Heels, when I have a mind to take the pleasurable Air here above, for fear I should Bilk my Keeper, and so draw him in for Cakes and Ale. Therefore, farewel my worthy Son of Thunder. <stage>
+                     <hi>Exit</hi> Bastwick.</stage>
+               </p>
+            </sp>
+            <stage>
+               <hi>As</hi> Bastwick <hi>goes out, Enter</hi> Lovewit <hi>and</hi> Fair<g ref="char:EOLhyphen"/>man, <hi>two of his la<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Parishioners.</hi>
+            </stage>
+            <sp>
+               <speaker>David.</speaker>
+               <p>Let me consider, if I tack about to the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssenters, 'twill make the World suspect, that I wore the Vizo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Church<g ref="char:EOLhyphen"/>man so long, only to have the Advantage and <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of ralling at their Clergy in their own Pulpits, but then I can convince them, that the Injustice, Prophaneness and Debauch<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, as united in all its Members, op<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> my <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> higher Degree of Excellency— Well, 'tis <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> weighty Point, and re<g ref="char:EOLhyphen"/>quires a great deal of thought.</p>
+            </sp>
+            <sp>
+               <speaker>Love.</speaker>
+               <p>
+                  <hi>Fairman,</hi> Dost not see yonder <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dicated <hi>David?</hi> more thoughtful than a broken Gamester, tha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lost all his Stock the last night at the Groom-Porters, as a dis<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pointed Statesman, <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> whose hopes are bilk'd by a Countermine.</p>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>Or one of his own Coat, on a <hi>Sunday</hi>-Morning when he had been taking a Cup of the Creature all <hi>Saturday</hi> Night. But prithee let's divert him from his melancholy Reflections on the loss of his Benefice.</p>
+            </sp>
+            <sp>
+               <speaker>Love.</speaker>
+               <p>Agre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d; but if we make not haste, he'll give us the go-by, for he's upon motion you see: Why, how now my Man of Met<g ref="char:EOLhyphen"/>tle! What, disponding for little Tribulations already?</p>
+            </sp>
+            <sp>
+               <speaker>David.</speaker>
+               <p>Who? Mr. <hi>Lovewit,</hi> and Mr. <hi>Fairman?</hi> What Chance has brought you to my pensive Walks; not to seek me I warrant, but to ramble after some deluding Sin, or other.</p>
+            </sp>
+            <sp>
+               <pb n="21" facs="tcp:39095:11"/>
+               <speaker>Love,</speaker>
+               <p>What makes you so sensorious, Doctor, to pronounce us guilty of <hi>inordinate</hi> desires, because we have a fancy to take a heating <hi>Deambulation? Hony soit qui mal y panse:</hi> Levite, I fear you come hither upon some such design, you suspect us so; a dear assignation from some compassionate she <hi>Hearers,</hi> I warrant, who brings thee some Ely<g ref="char:EOLhyphen"/>mosinary yellow Boys in thy destress.</p>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>No. no, <hi>Lovewit,</hi> none of his <hi>Lady-hearers,</hi> I dare swear, will have any fellow feeling for him, since he has so much at the expence of their pleasure solemnly declared they must have no conjugal satis<g ref="char:EOLhyphen"/>faction on fasting-nights.</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>Here is an easie salve for that sore; for if they may not have Conjugal delights, I presume they are free for a friendly <hi>Contribution.</hi> But little <hi>David,</hi> if thou wilt put in for the reversion of Mr. <hi>Burgess</hi>'s Congregation, thou shalt have my Vote, for 'tis pitty such Talents; should be hid under the Bushil of no Preferment.</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>I might have kept my preferment still, if I would have <hi>winked at</hi> your crying sins, as my Successor will do, as I emphatically observ'd from the Nature of his Name. 'Tis not my way, Gentlemen, to use the smooth enticeing words of mans wisdom, like a Smug-fac'd Epicure of an <hi>incum<g ref="char:EOLhyphen"/>bent,</hi> else I could have tickl'd your imaginations as well as the best of No, no, I am a plain down right man,<note place="margin">Pag. 23<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> I have enter'd into a Cove<g ref="char:EOLhyphen"/>nant against Learning, and Civility; I have bid defiance to them, I say, and to the <hi>Criticks,</hi> the <hi>Counsels,</hi> the <hi>School-men,</hi> and the <hi>Philoso<g ref="char:EOLhyphen"/>phers,</hi> I have said, get thee behind me <hi>Satan,</hi> I have laid a side all my knowledge in the Tongues.</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>Which thy Greek <hi>motto</hi> to thy Sermon convinces, was most profound.</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>Was this reason tho', Gentlemen,<note place="margin">Pag. 40.</note> sufficient to turn me out of my place?</p>
+            </sp>
+            <sp>
+               <speaker>Fair,</speaker>
+               <p>No, no, what tho' you p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inted at one, and nam'd another, and declare every man's private faults aloud; yet if we had had but a little patience, you would have made us as good a plaister for our heads you had broke, as you did for the Clergy; whom after you had brought down on their Marrow-bones of <hi>Contempt, you with a loud and audible voyce, bid rise up Sir Infallibility.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>If I rail'd at the Clergy, 'twas only to gain a free passage for the Gospel.</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>Believe me, <hi>David,</hi> that was a needless trouble, since the Gospel has a passage as free as thou canst desire already; for it comes in at one ear, and goes out at tother.</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>Ah, Gentlemen, I find this belov'd sin of <hi>Ʋsury</hi> will not let you see the <hi>Truth.</hi> I had no Money to put out, that could blind my eyes, but that I might see without Spectacles, or a Telescope, into the Milstone of the <hi>Veracity</hi> of the unlawfulness of taking lawful Interest, this was it,
+<pb n="22" facs="tcp:39095:12"/> you turn'd me out for, without any consideration; tho' I told you after, I found fair means would not do: that I should have <hi>Bears,</hi> and all the four-footed Animals of the Sublunary world,<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 20.</note> to revenge my quarrel on your Ingratitude, and the Ravens feed me with Bread as well as <hi>Elias; Oh you of little faith,</hi> and sear'd and hardned Consciences.</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>I find little <hi>David</hi> here took a touch of Mr. <hi>Bays</hi> his Politicks, in Prologues; one for Terrour, and t'other for Compassion.</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>You wicked of <hi>Sidon,</hi> you have no regard to my spotless In<g ref="char:EOLhyphen"/>nocence, tho' I have bid defiance to the whole World, not excluding a<g ref="char:EOLhyphen"/>ny one part from the <hi>South-sayers</hi> of <hi>Lapland,</hi> to the <hi>Pythagorean Bra<g ref="char:EOLhyphen"/>mins</hi> of <hi>Baentum;</hi> from the bearded Gentlemen of our own <hi>Welch</hi> Moun<g ref="char:EOLhyphen"/>tains,<note place="margin">
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ge 21.</note> to the warm Bankers in <hi>Lombard street,</hi> to prove me guilty of any one of those Imputations <hi>Samuel</hi> once feared in my Circumstances upon a Resignation.</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>But <hi>Samuel</hi> (being an old Man, whose dancing days were done) left out one thing, which thou mightst have added, <hi>viz</hi> whose Wife have I consolated with the bounties of my Person, instead of the crums of Comfort of <hi>soul saving,</hi> and <hi>Spiritual Lectures.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>He might also have added, what worthy Parishioners have I pointed at in the Church, when I should have been reducing the <hi>Scripture-instituted-Pulpit-Thumping to practice,</hi> because he was not so bountiful in his Contributions, as my not-enough esteem'd Merits required.</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>But he has taken away all those Scruples at once, when he dares any man to prove him guilty of the least publick immoral Action in his Life.</p>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ge</hi> 22.</note>
+                  <hi>Publick immoral Action?</hi> prithee <hi>David,</hi> what dost thou mean by that?</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>I am a plain meaning Man, I love <hi>simplicity,</hi> and <hi>foolishness;</hi> nor do I couch my thoughts in <hi>Ambiguous,</hi> or <hi>Amphibious</hi> Words.</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>Prithee, his meaning is obvious enough, as thus,— If he has a mind to be drunk, he drinks not at a prophane Tavern, Brandy<g ref="char:EOLhyphen"/>shop, or Ale-house; but within the consecrated Walls of a Brother Saint; where, if he or his Brethren get boosie, 'tis without noise, or shew; there is a double Pleasure in Iniquity, when 'tis <hi>stollen</hi> from the view of the Publick; for they enjoy the Reputation of Saints, and the Delights of Sinners;—So, if he would have a blooming young Girle, as full of love as an unsqueez'd Orange is of Juice, to give lusty Nature a necessary jog, he seeks her not out in the Mazes of a Night Ramble, in the Street, or the Park, Wells, or Play, or any other place of pub<g ref="char:EOLhyphen"/>lick resort; where, in an Evening, a lewd Punk, of the Eighteen-penny Gallery, puts on the Face of Innocence and Quality; nor will he ven<g ref="char:EOLhyphen"/>ture the Conflagration of his Tabernacle in any known Vaulting-School; but meets the hearty and wholesome Embraces of one of his fille De<g ref="char:EOLhyphen"/>vote's, who thinks it no small step in her Journey to the Saints Ever<g ref="char:EOLhyphen"/>lasting
+<pb n="23" facs="tcp:39095:12"/> Rest, by having her Vessel consecrated by the man of God. Sins that are committed in the Eye of the World, lose half their pleasure; for they look with a Face of Lawfulness; whereas, a secret Intrigue heightens your Enjoyment by the Circumstance of Theft: I tell thee <hi>Jack</hi> 'tis as curious a thing to manage iniquity to Advantage, as the <hi>Scotch</hi> Receipt to kill the Devil.</p>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>Kill the Devil! <hi>Ned</hi>— prithee what dost mean?</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>I'll tell thee a Story,— Since the Restoration of Pressbytery in <hi>Scotland,</hi> there was an eminent Holder-forth, near <hi>Edinburg,</hi> that wou'd needs inform his Congregation, How to kill the Devil. Can any, among you, tell how to kill the Devil (says he) turning about his Drum Ecclesiastick, Can you? Or you? Or you? No, no, none of you can tell;— for you cannot hang him, for he's as light as a Feather; you cannot drown him, for he's Cork all up to the Arse; you cannot stick him, for his Hide is as thick as a Highlander's Target; and what will you do then, Beloved, to kill the Devil?— Mark me, I'll tell you, Beloved, you must shoot him with the great Gun of the Word of God; as thus Beloved, in you corner, there's the Muckle Devil, and here stand I, and thus take up the Word of God, well prim'd with Faith, Beloved, and with it I will shoot the Divel; <hi>shoo shoo, hoo, hoo,</hi> and with that he flung the Bible at the destin'd place, and knock'd down a poor Holy Sister, that was taking a refreshing Nap.</p>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>What dost thou mean by this? Which is no more to the purpose, than a Countrey Parson's Sermon to his Text.</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>Oh, Sir, you err mightily, for 'tis doubly to my purpose; first, to shew you, that 'tis no easie matter to manage <hi>iniquity</hi> well, since 'tis of equal difficulty to the killing the Devil; which secondly, may be done, to our Satisfaction, by the Word of God; have but that enough in your Mouth, and your Tail will never be suspected as a false Brother.</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>But who can conceal his Vices from the World, if he give himself once privately over to them, they would be out of his power to conceal.</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>No, no, <hi>David,</hi> a little Custom will do all.</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>Well, well, Gentlemen, if I were not innocent, I could ne'er have dar'd to pronounce so bold a Challenge; and had I not been spot<g ref="char:EOLhyphen"/>less as the <hi>Dove,</hi> in the <hi>Canticles,</hi> I durst never have made such an ear<g ref="char:EOLhyphen"/>nest <hi>Apostrophe</hi> to the Lord, who knew the Secrets of my Heart, no more than a Coward, Bully a known Man of Courage. But were I guilty, why did no body answer me in the face of the Congregation?</p>
+            </sp>
+            <sp>
+               <speaker>Lov,</speaker>
+               <p>Truly, little <hi>David,</hi> the Church was so throng'd, with those that came to weep, those that came to laugh, and those that came to sleep, that a Man might assoon have got under the Gallows, at Execu<g ref="char:EOLhyphen"/>tion day, as have come within hearing of you; your Arrogance else had been bauk'd by a young tell-tale Rogue, that swears he saw thee,
+<pb n="24" facs="tcp:39095:13"/> from a fellow-feeling Brothers, come reeling home, as drunk as a Squire of <hi>Alsatia</hi> from a Bowl of Punch.</p>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>But with what <hi>Impudence</hi> couldst thou say, thou didst awake some drowsie Auditors,<note place="margin">
+                     <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ag.</hi> 23.</note> lest they should be strook dead for not minding thy Nonsensical Harangue, as <hi>Eutychus</hi> was, for sleeping at the Sermon of St. <hi>Paul?</hi> when thou didst not fear to provoke Heaven to strike thee, for calling it to Witness, of thy being never guilty of any im<g ref="char:EOLhyphen"/>moral Action; when thou couldst not but remember how thou didst basely disown thy own Father at <hi>Oxford,</hi> because the honest Hind was not drest in Scarlet; but perhaps, thou didst not think that any Crime.</p>
+            </sp>
+            <sp>
+               <speaker>David,</speaker>
+               <p>All Malicious Impostures of my Enemies Inventions: Is not the Miracle my Prayers have done,<note place="margin">
+                     <hi>
+                        <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>age</hi> 32.</note> an undeniable Proof of my Sanctity?</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>How, how, little <hi>David,</hi> what a paw word was that? It smells as much of Popery, as thy new advanc'd infallibility of the Cler<g ref="char:EOLhyphen"/>gy. I thought Miracles had been ceas'd many a fair day ago, and that you might assoon find a Gamester without Dice, and other neces<g ref="char:EOLhyphen"/>sary Implements of his Art, or a Player without Impudence; as an <hi>in<g ref="char:EOLhyphen"/>terloping Prayer,</hi> that cou'd rob the Physitian of his Fee.</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>I will leave you, ye generation of Vipers, who turn the most holy Declarations of the Justification of the Innocent into ridicule; you are possest with a Devil, beyond the Power of a Gospel holder-forth to cast out of ye.</p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>Well, honest <hi>David,</hi> if thou wilt leave us, thou shalt not go without some words of Comfort; for since thou hast declared solemnly, that he that keeps the <hi>whole</hi> Law, and allows himself but one beloved Sin,<note place="margin">
+                     <hi>Page</hi> 35.</note> is worse than he that is guilty of all the Lewdness, Prophaneness, and Villanies in the World; the Whore Masters, Cheats, Atheists, Poets, Fidlers, and Players, intend to establish a Pension for thee, du<g ref="char:EOLhyphen"/>ring Life; and will have a Nocturnal Congregation, where, thou in an audible Voice, shalt inforce this Doctrine, that a Man that commits but one Sin, is worse than he that commits ten thousand.</p>
+            </sp>
+            <sp>
+               <speaker>Fair.</speaker>
+               <p>The tenet is so good an encouragement to the young and fearful Sinners, by persuading them that they had as good go through stitch with the work, and eat of every dish of the Feast of Debauchery, since they shall pay no more, than if they had tasted but of one, that I do not wonder at their generous resolve.</p>
+            </sp>
+            <sp>
+               <speaker>Dav.</speaker>
+               <p>I'll begone, and shake the dirt off my Feet on that wicked street of yours, that did not receive me, but turn me away with con<g ref="char:EOLhyphen"/>tempt. Wo, wo, and wo be unto thee, for it shall be better for <hi>Whet<g ref="char:EOLhyphen"/>stone</hi>'s <hi>Park,</hi> or <hi>Tower-Hill,</hi> in the day or Tribulation, than with thee; for if they had had the Happiness to hear me Preach, they would have left their Iniquities,
+<stage>exit David.</stage>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lov.</speaker>
+               <p>Well, Divinity is gone with a fury from us; and 'tis well one of the Vials of the <hi>Revelations</hi> is not in his hands, else he would cer<g ref="char:EOLhyphen"/>tainly pour it all out on <hi>Lombard-street.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39095:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
